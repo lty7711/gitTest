@@ -1,0 +1,2 @@
+UML类图参考地址：https://design-patterns.readthedocs.io/zh-cn/latest/read_uml.html
+时序图参考资料：https://www.cnblogs.com/ywqu/archive/2009/12/22/1629426.html
